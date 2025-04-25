@@ -1,0 +1,17 @@
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\bin\Debug\Ferreteria.sdf
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\bin\Debug\Proyecto_ferreteria.xml
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\WindowsApplication1.Ventas.resources
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\Proyecto_ferreteria.vbproj.GenerateResource.Cache
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\obj\x86\Debug\Proyecto_ferreteria.xml
+C:\ProyectosVB\Ferretería\Proyecto_ferreteria\bin\Debug\Archives\Frases.txt

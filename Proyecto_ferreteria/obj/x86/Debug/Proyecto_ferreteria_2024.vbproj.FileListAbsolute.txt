@@ -1,0 +1,142 @@
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\Users\Glaucus\Desktop\Proyecto Dogliotti\Proyecto_ferreteria_2024\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+C:\Users\Glaucus\Desktop\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Glaucus\Desktop\Pruebas\2\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Glaucus\Desktop\Pruebas\3\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Glaucus\Desktop\Pruebas\4\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\5\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Ventas.resources
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Ventas.resources
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\Users\Glaucus\Desktop\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Ventas.resources
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+D:\Pruebas\5 - copia\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+D:\Pruebas\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+D:\Pruebas\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+D:\Pruebas\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+D:\Pruebas\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe.config
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.exe
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.xml
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.pdb
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Ferreteria.sdf
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.exe
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.pdb
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\bin\Debug\Proyecto_ferreteria_2024.xml
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasClientes.resources
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasLocalidad.resources
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.altasProducto.resources
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Desarrollo.resources
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\WindowsApplication1.Ventas.resources
+C:\ProyectosVB\PROYECTO FINAL\Variaciones del Proyecto Dogliotti\Variaciones de proyecto\Proyecto_ferreteria_2024\obj\x86\Debug\Proyecto_ferreteria_2024.vbproj.GenerateResource.Cache
